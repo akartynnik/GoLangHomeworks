@@ -1,2 +1,2 @@
 # GoLangHomeworks
-Repository for petprojects related to course "Разработка веб-сервисов на Go"
+Repository for pet-projects related to course "Разработка веб-сервисов на Go"
